@@ -27,7 +27,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 Clone o projeto e acesse a pasta
 
 ```bash
-$ git clone https://github.com/leticiasouza-dev/VNWstream.git && cd VNWstream
+$ git clone git@github.com:leticiasouza-dev/vnwStream-codigoQuebrad.git
 ```
 ## 💻 Projeto
 
